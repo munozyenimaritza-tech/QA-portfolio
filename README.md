@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy Yeni Muñoz  
 
-## 🧪 QA Engineer | QA Automation Junior
+## 🧪 QA Engineer | QA Automation
 
 Soy **QA Engineer** con experiencia práctica en **pruebas manuales y automatizadas**, **pruebas de API** y **aseguramiento de la calidad del software** en entornos ágiles. Me enfoco en detectar errores de forma temprana, mejorar la estabilidad de los productos y aportar valor desde la perspectiva del usuario final.
 
@@ -15,12 +15,11 @@ Actualmente continúo fortaleciendo mis habilidades en **automatización de prue
 - Pruebas manuales (funcionales, regresión, smoke)  
 - Diseño y ejecución de casos de prueba  
 - Pruebas de API (Postman)  
-- Automatización de pruebas (Cypress, Selenium)  
+- Reporte de Bugs (JIRA)  
 
 **Herramientas**  
-- Postman  
-- Cypress  
-- Selenium  
+- Postman
+- Figma 
 - JIRA  
 - Git & GitHub  
 - Chrome DevTools  
@@ -38,7 +37,7 @@ Actualmente continúo fortaleciendo mis habilidades en **automatización de prue
 - Reporte y seguimiento de bugs en JIRA.  
 - Trabajo colaborativo bajo metodología ágil (Scrum).
 
-**Tecnologías:** Postman · JIRA · Cypress · Selenium · Scrum  
+**Tecnologías:** Postman · JIRA · Figma · Scrum  
 
 ---
 
@@ -47,18 +46,17 @@ Actualmente continúo fortaleciendo mis habilidades en **automatización de prue
 - Pruebas de API y verificación de respuestas y códigos de estado.  
 - Identificación y documentación de defectos para mejorar la estabilidad del producto.
 
-**Tecnologías:** Postman · JIRA · Cypress · Scrum  
+**Tecnologías:** Postman · JIRA · Figma · Scrum  
 
 ---
 
 ## 🎓 Formación  
 
 - **Bootcamp QA Engineer** – TripleTen (2025)  
-- **Diplomado en Control de Calidad y Pruebas de Software** – Tecnológico de Monterrey (2022)  
-  - Selenium | Cypress | Metodologías Ágiles  
 - **Contabilidad Básica** – SENA (2017)  
 - **Técnico Profesional en Gastronomía** – ICSEF (2014–2017)
-
+- **Técnico en contabilización de operaciones comerciales y financieras** – SENA (2014)
+  
 ---
 
 ## 💡 Sobre mí  
@@ -79,8 +77,8 @@ Actualmente continúo fortaleciendo mis habilidades en **automatización de prue
 
 ## 📫 Contacto  
 
-- 💼 LinkedIn: *(agrega aquí tu enlace)*  
-- 📧 Email: *(opcional)*  
+- 💼 LinkedIn: *(www.linkedin.com/in/yeni-muñoz-qa)*  
+- 📧 Email: *(munoz.yenimaritza@gmail.com)*  
 
 ---
 
