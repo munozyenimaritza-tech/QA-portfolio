@@ -1,5 +1,6 @@
 
 # 👋 Hola, soy Yeni Muñoz  
+<img width="1584" height="396" alt="my banner" src="https://github.com/user-attachments/assets/e8d335ab-0f02-4149-b991-bf0e3ee9c9a2" />
 
 ## 🧪 QA Engineer | QA Automation
 
