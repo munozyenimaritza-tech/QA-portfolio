@@ -47,7 +47,23 @@ Reporte de Bugs: JIRA <img width="1099" height="791" alt="image" src="https://gi
 
 <img width="1197" height="859" alt="image" src="https://github.com/user-attachments/assets/4b3937b4-3288-4787-bb94-688b2db2ef61" />
 
+📊 Resultados de las pruebas
 
+Se ejecutaron casos de prueba funcionales sobre los principales flujos
+
+Se identificaron defectos relacionados con validaciones de campos, UI y reglas de negocio
+
+Se documentaron hallazgos y se realizaron recomendaciones de mejora
+
+🌱 Aprendizajes
+
+Análisis de requerimientos y criterios de aceptación
+
+Redacción clara de casos de prueba
+
+Importancia del detalle en el reporte de bugs
+
+Enfoque en la experiencia del usuario
 ---
 
 ### 🛒 Urban Grocers | QA Engineer (2025)  
@@ -63,6 +79,26 @@ Pruebas de Api Postman:  <img width="882" height="757" alt="Captura de pantalla 
 
 <img width="945" height="822" alt="Captura de pantalla 2025-12-16 141755" src="https://github.com/user-attachments/assets/37e13be3-0c3e-4528-89eb-d8cb8d856889" />
 
+📊 Resultados de las pruebas
+
+Detección de defectos funcionales en etapas tempranas.
+ 
+Mejora en la estabilidad del sistema.
+
+Validación correcta de flujos críticos del negocio.
+
+Aporte a una mejor experiencia del usuario final.
+
+
+🌱 Aprendizajes
+
+Aplicación práctica del proceso de **QA back-end**.
+
+Uso de herramientas profesionales de testing.
+
+ejora de habilidades de análisis, documentación y reporte de defectos.
+
+Trabajo colaborativo bajo entornos ágiles.
 
 ---
 
