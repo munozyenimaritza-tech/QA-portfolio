@@ -40,6 +40,7 @@ Actualmente continúo fortaleciendo mis habilidades en **automatización de prue
 
 **Tecnologías:** Postman · JIRA · Figma · Scrum  
 
+https://docs.google.com/spreadsheets/d/1iG7GsXzAneaKdGXRgKqx0FKTWKsO_EP9/edit?usp=sharing&ouid=114356084921054998233&rtpof=true&sd=true 
 ---
 
 ### 🛒 Urban Grocers | QA Engineer (2025)  
