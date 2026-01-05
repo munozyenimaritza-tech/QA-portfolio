@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy Yeni Muñoz  
 
-## 🧪 QA Engineer | QA Automation Junior  
+## 🧪 QA Engineer | QA Automation Junior
 
 Soy **QA Engineer** con experiencia práctica en **pruebas manuales y automatizadas**, **pruebas de API** y **aseguramiento de la calidad del software** en entornos ágiles. Me enfoco en detectar errores de forma temprana, mejorar la estabilidad de los productos y aportar valor desde la perspectiva del usuario final.
 
