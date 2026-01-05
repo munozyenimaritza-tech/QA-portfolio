@@ -40,7 +40,14 @@ Actualmente continúo fortaleciendo mis habilidades en **automatización de prue
 
 **Tecnologías:** Postman · JIRA · Figma · Scrum  
 
-https://docs.google.com/spreadsheets/d/1iG7GsXzAneaKdGXRgKqx0FKTWKsO_EP9/edit?usp=sharing&ouid=114356084921054998233&rtpof=true&sd=true 
+
+# Ir al Proyecto 👉 https://docs.google.com/spreadsheets/d/1iG7GsXzAneaKdGXRgKqx0FKTWKsO_EP9/edit?usp=sharing&ouid=114356084921054998233&rtpof=true&sd=true 
+
+Reporte de Bugs: JIRA <img width="1099" height="791" alt="image" src="https://github.com/user-attachments/assets/0321d1d1-7040-406f-a095-201083a11fa6" />
+
+<img width="1197" height="859" alt="image" src="https://github.com/user-attachments/assets/4b3937b4-3288-4787-bb94-688b2db2ef61" />
+
+
 ---
 
 ### 🛒 Urban Grocers | QA Engineer (2025)  
@@ -49,6 +56,13 @@ https://docs.google.com/spreadsheets/d/1iG7GsXzAneaKdGXRgKqx0FKTWKsO_EP9/edit?us
 - Identificación y documentación de defectos para mejorar la estabilidad del producto.
 
 **Tecnologías:** Postman · JIRA · Figma · Scrum  
+
+# Ir al Proyecto 👉 https://docs.google.com/spreadsheets/d/1IVFsPAZCRI4_L8Z1QQm7a3xjN16i08klN6PbPSmSuEg/edit?usp=sharing 
+
+Pruebas de Api Postman:  <img width="882" height="757" alt="Captura de pantalla 2025-12-17 160223" src="https://github.com/user-attachments/assets/03c4bd19-1cb8-4bd4-be86-c91b5cc48697" />
+
+<img width="945" height="822" alt="Captura de pantalla 2025-12-16 141755" src="https://github.com/user-attachments/assets/37e13be3-0c3e-4528-89eb-d8cb8d856889" />
+
 
 ---
 
